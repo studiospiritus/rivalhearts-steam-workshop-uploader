@@ -1,5 +1,4 @@
-Based on I Wani Hug That Gator's Workshop Uploader
-Which was originally made by 4onen for the game Angels With Scalie Wings
+Based on I Wani Hug That Gator's Workshop Uploader, which was originally made by 4onen for the game Angels With Scalie Wings
 
 IWHTG repo: https://git.cavemanon.xyz/Legalo/Workshop-Uploader
 Original repo: https://github.com/4onen/AwSW-Workshop-Uploader/
